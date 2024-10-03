@@ -1,4 +1,4 @@
-FROM openjdk:8-jdk-alpine
+FROM docker.io/library/openjdk:8-jdk-alpine
 
 VOLUME /tmp
 
